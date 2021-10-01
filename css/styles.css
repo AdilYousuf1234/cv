@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.im {
+    color: #66BFBF;
+    font-size: 90px;
+    width: 50%;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+.name {
+    color: #66BFBF;
+    font-size: 90px;
+    width: 75%;
+    margin: 100px auto 100px auto;
+    font-family: 'normal', inherit;
+}
+h2 {
+    color: #66BFBF;
+    font-family: 'normal', inherit;
+    font-size: 2.5rem;
+}
+h3 {
+    font-family: 'normal', inherit;
+    color: #11999E;
+    font-family: 'Montserrat',sans-serif;
+}
+.top{
+    background-color: #e4f9f5;
+    position: relative;
+    margin-bottom: 10px;
+    padding: 80px;
+}
+.middle-container{
+    margin-top: 10px;
+}
+.top-cloud {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 150px;
+    bottom: 400px;
+}
+.profiles {
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+}
+
+.profile_photo{
+    height: 200px;
+    width: 200px;
+}
+
+.skill_img {
+    height: 10%;
+    width: 10%;
+    float: left;
+    margin-left: 30px;
+}
+.skill-row {
+    margin: 100px 100px 100px 100px;
+    text-align: left;
+    line-height: 2;
+    align-content: center;
+}
+p {
+    line-height: 2;
+}
+.skills{
+    text-align: center;
+}
+.btn{
+    background-color: #11999E;
+    color: white;
+    padding: 12px;
+    border-radius: 10px;
+    font-size:12px;
+    display: inline-block;
+
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
